@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Whats For Breakfast</string>
+    <string name="txtHeading">Make A Choice</string>
+    <string name="rdoBtnOmelet">Omelet</string>
+    <string name="rdoBtnPancake">Pancakes</string>
+    <string name="rdoBtnFrenchToast">French Toast</string>
+    <string name="btnMakeOrder">Make My Order</string>
+</resources>
